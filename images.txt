@@ -3,5 +3,5 @@ mysql
 redis
 nacos/nacos-server
 minio/minio
-rabbitmq
+rabbitmq:4.2.6-management
 mongo
