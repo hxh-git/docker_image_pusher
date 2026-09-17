@@ -2,6 +2,5 @@ nginx
 mysql
 redis
 nacos/nacos-server
-minio/minio
 rabbitmq:4.2.6-management
 mongo
